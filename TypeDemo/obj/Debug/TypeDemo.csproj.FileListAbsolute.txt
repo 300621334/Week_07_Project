@@ -1,0 +1,6 @@
+C:\Users\300621334\Desktop\Week_07_Project\TypeDemo\bin\Debug\TypeDemo.exe.config
+C:\Users\300621334\Desktop\Week_07_Project\TypeDemo\obj\Debug\TypeDemo.csprojResolveAssemblyReference.cache
+C:\Users\300621334\Desktop\Week_07_Project\TypeDemo\bin\Debug\TypeDemo.exe
+C:\Users\300621334\Desktop\Week_07_Project\TypeDemo\bin\Debug\TypeDemo.pdb
+C:\Users\300621334\Desktop\Week_07_Project\TypeDemo\obj\Debug\TypeDemo.exe
+C:\Users\300621334\Desktop\Week_07_Project\TypeDemo\obj\Debug\TypeDemo.pdb
